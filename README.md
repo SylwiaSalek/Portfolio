@@ -32,7 +32,7 @@ Nazywam się Sylwia Sałek i stawiam pierwsze kroki w świecie IT. Z wykształce
 
 # Kursy
 - [Coders Lab - tester manualny](https://coderslab.pl/pl/tester-manualny)
-- [Coders Lab - tester automatyzujący - zapisana, data rozpoczęcia kursu: maj 2022](https://coderslab.pl/pl/tester-automatyzujacy)
+- [Coders Lab - tester automatyzujący](https://coderslab.pl/pl/tester-automatyzujacy) - zapisana, data rozpoczęcia kursu: maj 2022
 
 # Książki
 - R. Smilgin - Zawód tester
