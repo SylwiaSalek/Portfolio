@@ -52,3 +52,6 @@ Nazywam się Sylwia Sałek i stawiam pierwsze kroki w świecie IT. Z wykształce
 - [Testerzy.pl](https://testerzy.pl/)
 - [Testuj.pl](https://testuj.pl/blog/)
 - [Wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+
+# Mój przykładowy Raport o błędzie
+- [Błąd zaraportowany w aplikacji BlachyPL](https://drive.google.com/file/d/1dkxcbCUHrOXj6bL0Eo-s_TW8NQaFbM7H/view?usp=sharing)
